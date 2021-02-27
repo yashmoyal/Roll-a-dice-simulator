@@ -1,4 +1,5 @@
 # rolling of a dice.
+#yashmoyal
 import random
 def rollarice(dice):
     gh=0
@@ -22,6 +23,3 @@ while exit != 0:
     yu = str(input('do you want to play this game again?\n'))
     if yu == 'no':
         exit = 0
-
-
-
